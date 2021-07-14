@@ -1,0 +1,16 @@
+.userDetail__container--area{
+  margin-bottom: 20px;
+  background: #f7f7f7;
+  border: 1px solid #efefef;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+.userDetail__name{
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.userDetail__description{
+  color:rgb(255, 133, 133);
+}

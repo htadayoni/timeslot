@@ -1,0 +1,15 @@
+.header__container--area{
+  margin-bottom: 20px;
+}
+
+.header__subTitle{
+  text-transform: uppercase;
+  color: #888;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.header__title{
+  font-weight: 600;
+  font-size: 28px;
+}

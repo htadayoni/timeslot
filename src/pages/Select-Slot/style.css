@@ -1,0 +1,6 @@
+.slots__container--area {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+}

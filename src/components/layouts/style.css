@@ -1,0 +1,18 @@
+.app__layout--area{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.layout-wrapper{
+  background: #fff;
+  border-radius: 10px;
+  width: 80%;
+  height: 80%;
+  box-shadow: 0px 0px 14px 5px #707273;
+  padding: 30px;
+  box-sizing: border-box;
+  overflow: hidden;
+}

@@ -1,0 +1,2 @@
+export const SET_TIME_SLOT = 'SET_TIME_SLOT';
+export const RESERVE_TIME_SLOT = 'RESERVE_TIME_SLOT';

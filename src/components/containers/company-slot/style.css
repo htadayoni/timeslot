@@ -1,0 +1,56 @@
+.company__name{
+  font-weight: 600;
+  color: #2fb8cb;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.company__slot--area{
+  width: 200px;
+}
+
+.company__reserved{
+  display: flex;
+  flex-direction: column;
+  background: #f7f7f7;
+  border: 1px solid #efefef;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 5px 0;
+}
+
+.company__reservedTime{
+  font-weight: bold;
+}
+
+.slots__day{
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px 0;
+}
+
+.slots__area{
+  padding: 0 10px;
+  overflow-y: scroll;
+  max-height: calc(100vh - 500px);
+}
+
+/* width */
+.slots__area::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+.slots__area::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+.slots__area::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+.slots__area::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
